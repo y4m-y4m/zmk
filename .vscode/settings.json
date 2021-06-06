@@ -1,6 +1,6 @@
 {
   "files.associations": {
-    "*.cps": "javascript",
-    "*.overlay": "dts"
+    "*.overlay": "dts",
+    "*.keymap": "dts"
   }
 }
